@@ -9,7 +9,7 @@
 <!-- ═══════════════ BANNER ═══════════════ -->
 
 <p align="center">
-  <img src="johannes-banner-cropped.png" width="100%" alt="Johannes | Java Systemutvecklare"/>
+
 </p>
 
 <p align="center">
@@ -102,23 +102,6 @@ Jag är nyfiken, noggrann och lösningsorienterad. Jag gillar att förstå hur s
 
 <!-- ═══════════════ GITHUB STATS – MITTEN ═══════════════ -->
 
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
-
-<p align="center">
-  <i>Min utveckling, aktivitet och kod över tid.</i>
-</p>
-
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=josvensson&show_icons=true&hide_border=true&bg_color=071713&title_color=00D9A6&icon_color=00D9A6&text_color=E6F4EF&rank_icon=github&include_all_commits=true" alt="Johannes GitHub stats"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josvensson&layout=compact&hide_border=true&bg_color=071713&title_color=00D9A6&text_color=E6F4EF" alt="Mest använda programmeringsspråk"/>
-</p>
-
-<p align="center">
-  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=josvensson&hide_border=true&background=071713&ring=00D9A6&fire=00D9A6&currStreakLabel=00D9A6&sideLabels=E6F4EF&dates=8BA59B" alt="GitHub contribution streak"/>
-</p>
-
----
-
 <!-- ═══════════════ PROJEKT ═══════════════ -->
 
 <h2 align="center">🚨 UTVALT PROJEKT</h2>
@@ -141,7 +124,7 @@ Ett programmeringsprojekt där jag arbetar med logiken för ett larmsystem och r
   <img src="https://img.shields.io/badge/OOP-00D9A6?style=flat-square"/>
 </p>
 
-<a href="DIN_PROJEKTLÄNK_HÄR">↗ Visa projektet på GitHub</a>
+<a href="(https://github.com/josvensson/Larmsystem)">↗ Visa projektet på GitHub</a>
 
 </td>
 </tr>
@@ -195,7 +178,7 @@ Ett programmeringsprojekt där jag arbetar med logiken för ett larmsystem och r
   <a href="mailto:DIN_EPOST_HÄR">
     <img src="https://img.shields.io/badge/EMAIL-KONTAKTA%20MIG-00D9A6?style=for-the-badge&logo=gmail&logoColor=071713" alt="E-post"/>
   </a>
-  <a href="DIN_LINKEDIN_LÄNK_HÄR">
+  <a href="(https://www.linkedin.com/in/johannes-svensson-link101/)">
     <img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/josvensson">
