@@ -49,9 +49,11 @@
 
 ## 👨‍💻 Profil
 
-Jag studerar systemutveckling med Java-inriktning på **YH Akademin**, där jag började i augusti 2026.
+Jag studerar Java-inriktad systemutveckling på YH Akademin och bygger projekt för att utveckla mina kunskaper inom objektorienterad programmering, problemlösning och backendutveckling.
 
-Jag är nyfiken, noggrann och lösningsorienterad. Jag gillar att förstå hur system fungerar, arbeta strukturerat och lära mig genom praktiska projekt.
+Just nu arbetar jag med programmeringslogik och systembeteenden, med målet att successivt fördjupa mig inom databaser, testning och Java backend.
+
+Jag söker en 24 veckor lång LIA-period med start i november 2027, där jag får bidra till ett utvecklingsteam och utvecklas genom praktiskt arbete.
 
 🎯 **Mitt mål:** att utvecklas inom Java backend och bidra i ett professionellt utvecklingsteam.
 
@@ -64,13 +66,13 @@ Jag är nyfiken, noggrann och lösningsorienterad. Jag gillar att förstå hur s
 
 **Omfattning:** 24 veckor
 
-**Plats:** Stockholm eller Göteborg
+**Plats:**  Plats: Stockholm och Göteborg
 
 **Inriktning:** Java backend
 
 <br/>
 
-<a href="mailto:DIN_EPOST_HÄR">
+<a href="https://www.linkedin.com/in/johannes-svensson-link101">
   <img src="https://img.shields.io/badge/LET'S%20CONNECT-00D9A6?style=for-the-badge&logo=minutemailer&logoColor=071713" alt="Kontakta mig"/>
 </a>
 
@@ -104,25 +106,17 @@ Jag är nyfiken, noggrann och lösningsorienterad. Jag gillar att förstå hur s
 
 <!-- ═══════════════ PROJEKT ═══════════════ -->
 
-<h2 align="center">🚨 UTVALT PROJEKT</h2>
+<h2 align="center">🚀 UTVALT PROJEKT</h2>
 
-<table>
-<tr>
-<td width="100%" valign="top">
+🔐 Larmsystem – Java
 
-### Larmsystem med sensorer
+Ett Java-projekt där jag bygger ett enkelt larmsystem med dörr-, rörelse- och röksensorer.
 
-Ett programmeringsprojekt där jag arbetar med logiken för ett larmsystem och regler för aktivering av sensorer.
+Funktioner: Aktivera, stänga av och återställa larmet.
 
-- **Systemstyrning:** aktivera larmsystemet och enskilda sensorer.
-- **Särskild regel:** röksensorn ska alltid kunna aktiveras, oavsett övrig systemstatus.
-- **Fokus:** villkor, problemlösning och hur systemkomponenter samverkar.
+Säkerhet: Röksensorn kan utlösa larm även när systemet är avstängt.
 
-<p>
-  <img src="https://img.shields.io/badge/LOGIK-00D9A6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SENSORER-00D9A6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OOP-00D9A6?style=flat-square"/>
-</p>
+Fokus: Java, objektorienterad programmering och problemlösning.
 
 <a href="https://github.com/josvensson/Larmsystem">↗ Visa projektet på GitHub</a>
 
