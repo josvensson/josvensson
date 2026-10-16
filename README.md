@@ -1,7 +1,7 @@
 
 <p align="center">
   <img
-    src="johannes-banner.png"
+    src="johannes-banner1.png"
     alt="Johannes – Java systemutvecklare, söker LIA 2027"
     width="100%"
   />
