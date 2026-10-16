@@ -124,7 +124,7 @@ Ett programmeringsprojekt där jag arbetar med logiken för ett larmsystem och r
   <img src="https://img.shields.io/badge/OOP-00D9A6?style=flat-square"/>
 </p>
 
-<a href="(https://github.com/josvensson/Larmsystem)">↗ Visa projektet på GitHub</a>
+<a href="https://github.com/josvensson/Larmsystem">↗ Visa projektet på GitHub</a>
 
 </td>
 </tr>
@@ -178,7 +178,7 @@ Ett programmeringsprojekt där jag arbetar med logiken för ett larmsystem och r
   <a href="mailto:DIN_EPOST_HÄR">
     <img src="https://img.shields.io/badge/EMAIL-KONTAKTA%20MIG-00D9A6?style=for-the-badge&logo=gmail&logoColor=071713" alt="E-post"/>
   </a>
-  <a href="(https://www.linkedin.com/in/johannes-svensson-link101/)">
+  <a href="https://www.linkedin.com/in/johannes-svensson-link101">
     <img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/josvensson">
