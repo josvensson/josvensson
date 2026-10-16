@@ -1,6 +1,10 @@
 
 <p align="center">
-  <img src="images/banner.png" alt="Johannes – Java systemutvecklare" width="100%">
+  <img
+    src="johannes-banner.png"
+    alt="Johannes – Java systemutvecklare, söker LIA 2027"
+    width="100%"
+  />
 </p>
 
 <h1 align="center">Hej, jag heter Johannes 👋</h1>
